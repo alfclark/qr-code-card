@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-code-component-s53J-40GY)
-- Live Site URL: [Add live site URL here](https://mystifying-tesla-957e8b.netlify.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-qr-code-component-s53J-40GY)
+- Live Site URL: [Live site URL](https://mystifying-tesla-957e8b.netlify.app/)
 
 ### Built with
 
